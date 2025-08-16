@@ -33,7 +33,7 @@
 
 ---
 
-## 🔹 Benefits of VPN
+## Benefits of VPN
 - Protects **privacy & identity** online  
 - Secures data over **public Wi-Fi**  
 - Bypasses **geo-restrictions**  
@@ -41,7 +41,7 @@
 
 ---
 
-## 🔹 Limitations of Free VPN
+## Limitations of Free VPN
 - Fewer servers available  
 - Slower speeds compared to paid plans  
 - Trust depends on VPN provider  
@@ -49,7 +49,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 - `protonvpn_connected.png` → ProtonVPN client showing active connection  
 - `ip_before.png` → Original IP (without VPN)  
 - `ip_after.png` → New IP (with VPN)  
