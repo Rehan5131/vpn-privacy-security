@@ -13,7 +13,7 @@
 
 4. **Verify IP Change**  
    - Before VPN: IP showed as ISP-provided India location.  
-   - After VPN: IP changed to **Netherlands location**.
+   - After VPN: IP changed to **Japan location**.
 
 5. **Test Secure Browsing**  
    - Opened browser, accessed HTTPS websites, and verified traffic encryption.
