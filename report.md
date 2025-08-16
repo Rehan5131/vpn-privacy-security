@@ -24,7 +24,7 @@
 
 ---
 
-## 🔹 VPN Security Features
+## VPN Security Features
 - **Encryption**: AES-256 military-grade
 - **Protocols**: OpenVPN, IKEv2/IPSec
 - **Kill Switch**: Prevents IP leaks
